@@ -1,22 +1,59 @@
-# 💫 About Me:
-🔭 I’ve completed:<br>• Online Exam Conduction System (ASP.NET + SQL)<br>• GatePass (Login/Registration + Role-Based Access)<br>• Modern Landing Pages using HTML, CSS & Bootstrap<br><br>👯 I’m looking to collaborate on:<br>• ASP.NET / .NET Web Development Projects<br>• Full-Stack projects (Frontend + SQL Backend)<br>• UI improvement + responsive website designs<br><br>🤝 I’m looking for help with:<br>• Hosting & deployment of ASP.NET projects<br>• Writing clean and optimized code<br>• Improving project security and real-world features<br><br>🌱 I’m currently learning:<br>• Advanced C# and ASP.NET concepts<br>• SQL queries and database connectivity<br>• DSA + LeetCode problem solving<br><br>💬 Ask me about:<br>• C# / ASP.NET Web Forms<br>• Login & Registration System with SQL<br>• Session-based page protection<br>• HTML, CSS, Bootstrap Responsive UI<br><br>⚡ Fun fact:<br>• I recently created a fresh GitHub account to upload my projects and stay consistent 🚀🔥 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_rathi04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-rathi-575076281/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Rathiayush575@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathiaccess@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hey-Rathiii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+👋 Hi there, I am Ayush Rathi!
+![](https://visitcount.itsvg.in/api?id=Hey-Rathiii&icon=5&color=6)
+ 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=Hey-Rathiii&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+💫 About Me
+	
+🔭 Completed	Online Exam System (ASP.NET + SQL), GatePass (Role-Based Access), Landing Pages
+👯 Collaborating on	ASP.NET / .NET Web Dev, Full-Stack (Frontend + SQL), Responsive UI
+🤝 Looking for help with	Hosting ASP.NET projects, Clean code, Security improvements
+🌱 Currently learning	Advanced C# & ASP.NET, SQL & DB connectivity, DSA + LeetCode
+💬 Ask me about	C# / ASP.NET Web Forms, Login systems with SQL, Session-based protection
+⚡ Fun fact	Fresh GitHub account to stay consistent and upload all my projects 🚀🔥
+---
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Hey-Rathiii&theme=dark&hide_border=false"/>
+</p>
+---
+💻 Technologies I have used
+Languages
+C#	JavaScript	Python	HTML5	CSS3
+<img src="https://skillicons.dev/icons?i=cs" width="55"/>	<img src="https://skillicons.dev/icons?i=js" width="55"/>	<img src="https://skillicons.dev/icons?i=python" width="55"/>	<img src="https://skillicons.dev/icons?i=html" width="55"/>	<img src="https://skillicons.dev/icons?i=css" width="55"/>
+C#	JavaScript	Python	HTML5	CSS3
+Frameworks & Libraries
+.NET / ASP.NET	TailwindCSS	Bootstrap
+<img src="https://skillicons.dev/icons?i=dotnet" width="55"/>	<img src="https://skillicons.dev/icons?i=tailwind" width="55"/>	<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/>
+.NET / ASP.NET	TailwindCSS	Bootstrap
+Databases
+Microsoft SQL Server	MySQL
+<img src="https://skillicons.dev/icons?i=mssql" width="55"/>	<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+MS SQL Server	MySQL
+Cloud & Hosting
+Azure	AWS	Render
+<img src="https://skillicons.dev/icons?i=azure" width="55"/>	<img src="https://skillicons.dev/icons?i=aws" width="55"/>	<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+Azure	AWS	Render
+Tools & Design
+Git	GitHub	Postman	Figma	Canva
+<img src="https://skillicons.dev/icons?i=git" width="55"/>	<img src="https://skillicons.dev/icons?i=github" width="55"/>	<img src="https://skillicons.dev/icons?i=postman" width="55"/>	<img src="https://skillicons.dev/icons?i=figma" width="55"/>	<img src="https://skillicons.dev/icons?i=canva" width="55"/>
+Git	GitHub	Postman	Figma	Canva
+---
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+<p align="center">
+  <i>Let's connect and build something awesome together!</i><br><br>
+  <a href="https://instagram.com/ayush_rathi04"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayush-rathi-575076281/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://pinterest.com/Rathiayush575@gmail.com"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/></a>
+  <a href="mailto:rathiaccess@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+<!-- Crafted for Hey-Rathiii -->
