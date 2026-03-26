@@ -90,7 +90,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
   </td>
  <td>
-  <img src="https://cdn.simpleicons.org/github/fffff" width="60"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="60"/>
 </td>
 </td>
   <td>
