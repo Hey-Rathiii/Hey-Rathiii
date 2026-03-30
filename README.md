@@ -11,17 +11,17 @@
 
 </div>
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hey-Rathiii&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<!--![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&show_icons=true&theme=radical&layout=compact)-->
+<!--![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&show_icons=true&theme=radical&layout=compact) 
 
 ![](https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://nirzak-streak-stats.vercel.app/?user=Hey-Rathiii&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# <h1><a href="https://heyyyrathi-portfolio.runasp.net">[Dev]-Rathi </a> - Visit my portfolio 😉</h1><br/>
+# <h1><a href="https://heyyyrathi-portfolio.runasp.net">[Dev]-Rathi </a> - Visit my portfolio 😉</h1><br/>-->
 ---
 ## 💻 Technologies I have used
 
