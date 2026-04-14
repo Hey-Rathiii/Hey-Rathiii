@@ -1,6 +1,6 @@
 <div>
 
-# 👋 Hi there, I am [Ayush Rathi! 😎](https://github.com/Hey-Rathiii) <img align="right" src="https://github.com/user-attachments/assets/753fec71-6416-4dcd-b0bd-22205480b2cf" width="300" alt="coding cat">
+# 👋 Hi there, I am [Ayush Rathi! 😎](https://heyyyrathi-portfolio.runasp.net/) <img align="right" src="https://github.com/user-attachments/assets/753fec71-6416-4dcd-b0bd-22205480b2cf" width="300" alt="coding cat">
 
 </div>
 <div>
