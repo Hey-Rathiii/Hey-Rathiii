@@ -1,6 +1,22 @@
-<div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Impact&size=68&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=90&lines=Welcome"
+    alt="Welcome"
+  />
+</p>
 
-# 👋 Hi there, I am [Ayush Rathi! 😎](https://heyyyrathi-portfolio.runasp.net/) <img align="right" src="https://github.com/user-attachments/assets/753fec71-6416-4dcd-b0bd-22205480b2cf" width="300" alt="coding cat">
+<p align="center">
+  <i>Hey there! I'm Ayush Rathi. Why are you reading this? Go ship something 🚀</i>
+</p>
+
+<br>
+
+<p align="center">
+ Portfolio: [https://heyyyrathi-portfolio.runasp.net]<div>
+</p>
+  
+<!--# 👋 Hi there, I am [Ayush Rathi! 😎](https://heyyyrathi-portfolio.runasp.net/)-->
+<img align="right" src="https://github.com/user-attachments/assets/753fec71-6416-4dcd-b0bd-22205480b2cf" width="300" alt="coding cat">
 
 </div>
 <div>
