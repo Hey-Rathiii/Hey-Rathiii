@@ -18,6 +18,13 @@
 <!--# 👋 Hi there, I am [Ayush Rathi! 😎](https://heyyyrathi-portfolio.runasp.net/)-->
 <img align="right" src="https://github.com/user-attachments/assets/753fec71-6416-4dcd-b0bd-22205480b2cf" width="300" alt="coding cat">
 
+<p align="left">
+  <img
+    alt="Pixel art GIF"
+    width="180"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif"
+  />
+
 </div>
 <div>
   
