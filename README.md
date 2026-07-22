@@ -148,18 +148,18 @@ open_to:
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <a href="https://github.com/Hey-Rathiii/Paarth-Infotech">
+        <a href="https://paarth-infotech-website.vercel.app/">
           <img
             width="100%"
-            src="https://raw.githubusercontent.com/Hey-Rathiii/Paarth-Infotech/master/websitehome.client/src/assets/hero.png"
-            alt="Paarth Infotech website hero"
+            src="./assets/projects/paarth-infotech-live-preview.png"
+            alt="Paarth Infotech live website preview"
           />
         </a>
       </p>
       <h3 align="center">Paarth Infotech</h3>
       <p align="center">
-        A modern web experience focused on responsive layouts,
-        reusable frontend components, and polished presentation.
+        A polished learning and digital-services experience featuring
+        live projects, industry mentorship, and responsive design.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -167,8 +167,12 @@ open_to:
         <img src="https://img.shields.io/badge/Responsive_UI-1F6FEB?style=flat-square" alt="Responsive UI" />
       </p>
       <p align="center">
+        <a href="https://paarth-infotech-website.vercel.app/">
+          <strong>Visit live website →</strong>
+        </a>
+        &nbsp;·&nbsp;
         <a href="https://github.com/Hey-Rathiii/Paarth-Infotech">
-          <strong>View repository →</strong>
+          <strong>Repository</strong>
         </a>
       </p>
     </td>
