@@ -1,200 +1,113 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Impact&size=68&duration=1&pause=1000000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=90&lines=Welcome"
-    alt="Welcome"
-  />
-</p>
+<div align="center">
+  <h1>Ayush Rathi</h1>
 
-<p align="center">
-  <i>Hey there! I'm Ayush Rathi. Why are you reading this? Go ship something 🚀</i>
-</p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2600&amp;pause=750&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=.NET+Full-Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+secure%2C+useful+web+products"
+    />
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2600&amp;pause=750&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=.NET+Full-Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+secure%2C+useful+web+products"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=25&amp;duration=2600&amp;pause=750&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=55&amp;lines=.NET+Full-Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+secure%2C+useful+web+products"
+      alt="Ayush Rathi — .NET full-stack developer building secure web products"
+    />
+  </picture>
 
-<br>
+  <p>
+    <strong>I turn practical ideas into clean, dependable web applications.</strong><br />
+    Backend correctness, thoughtful interfaces, and steady improvement—one useful release at a time.
+  </p>
 
-<p align="center">
- Portfolio: [https://heyyyrathi-portfolio.runasp.net]<div>
-</p>
-  
-<!--# 👋 Hi there, I am [Ayush Rathi! 😎](https://heyyyrathi-portfolio.runasp.net/)-->
-<img align="right" src="https://github.com/user-attachments/assets/753fec71-6416-4dcd-b0bd-22205480b2cf" width="300" alt="coding cat">
-
-<p align="left">
-  <img
-    alt="Pixel art GIF"
-    width="180"
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif"
-  />
-   
+  <p>
+    <a href="https://heyyyrathi-portfolio.runasp.net/">
+      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=58A6FF" />
+    </a>
+    <a href="https://www.linkedin.com/in/ayush-rathi-575076281/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+    </a>
+    <a href="mailto:rathiaccess@gmail.com">
+      <img alt="Email Ayush" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+    </a>
+  </p>
 </div>
-<div>
-  
-<!--![](https://img.shields.io/github/followers/Hey-Rathiii?label=follow&logo=github&style=flat-square)-->
-<!--![GitHub User's stars](https://img.shields.io/github/stars/Hey-Rathiii?label=%E2%AD%90GitHub%20stars&style=flat-square)-->
-![](https://komarev.com/ghpvc/?username=Hey-Rathiii&style=flat-square&color=ff69b4)
-
-</div>
-
-# 📊 GitHub Stats:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hey-Rathiii&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&show_icons=true&theme=radical&layout=compact) 
-
-<!--![](https://github-readme-stats.vercel.app/api?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://nirzak-streak-stats.vercel.app/?user=Hey-Rathiii&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hey-Rathiii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
-
-# <h1><a href="https://heyyyrathi-portfolio.runasp.net">[Dev]-Rathi </a> - Visit my portfolio 😉</h1><br/>
----
-## 💻 Technologies I have used
-
-<table>
-<tr align="center">
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="60"/>
-  </td>
-</tr>
-<tr align="center">
-  <td>C#</td>
-  <td>JavaScript</td>
-  <td>HTML5</td>
-  <td>CSS3</td>
-  <td>.NET / ASP.NET</td>
-</tr>
-</table>
-
-<table>
-<tr align="center">
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-  </td>
-
-</tr>
-<tr align="center">
-  <td>TailwindCSS</td>
-  <td>Bootstrap</td>
-  <td>MySQL</td>
-  <td>MS SQL Server</td>
-  <td>Azure</td>
-  <td>AWS</td>
-</tr>
-</table>
-
-<table>
-<tr align="center">
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-  </td>
- <td>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="60"/>
-</td>
-</td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/>
-  </td>
-  <td>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  </td>
-  <td>
-      <img height="60" alt="Google-Antigravity-Icon-White" src="https://github.com/user-attachments/assets/9329b168-df08-41f1-85a8-a4cf5e3eb774" width="60"/>
-  </td>
-</tr>
-<tr align="center">
-  <td>Git</td>
-  <td>GitHub</td>
-  <td>Postman</td>
-  <td>Figma</td>
-  <td>Canva</td>
-  <td>VS Code</td>
-  <td>Python</td>
-  <td>Antigravity</td>
-</tr>
-</table>
 
 ---
 
-# 💫 Currently How Much I’ve Learned
+## About me
 
-I’ve completed projects like an **Online Exam Conduction System** built with **ASP.NET and SQL**, a **GatePass** project with **Login, Registration, and Role-Based Access**, and several **modern landing pages** using **HTML, CSS, and Bootstrap**. I’m currently looking to collaborate on **ASP.NET / .NET web development projects**, **full-stack projects with frontend and SQL backend**, and also on improving **UI design and responsive websites**. Right now, I’m seeking help with **hosting and deployment of ASP.NET projects**, learning how to write **clean and optimized code**, and making my projects more secure with real-world features. At the same time, I’m actively learning **advanced C# and ASP.NET concepts**, improving my understanding of **SQL queries and database connectivity**, and practicing **DSA and LeetCode** to strengthen my problem-solving skills. You can ask me about **C#**, **ASP.NET Web Forms**, **Login and Registration systems with SQL**, **session-based page protection**, or **HTML, CSS, and Bootstrap responsive UI design**. A fun fact about me is that I recently created a fresh GitHub account to consistently upload my projects, track my growth, and keep improving step by step 🚀🔥
+I'm a developer from **Meerut, India**, focused on building end-to-end web products with **C#**, **ASP.NET Core**, **JavaScript**, and **SQL Server**. I enjoy the point where backend logic, database design, security, and a clean UI all meet.
 
+```text
+Ayush@GitHub
+├── building    → Paarth, a full teacher-and-student examination platform
+├── learning    → advanced C#, ASP.NET Core, DSA, and deployment
+├── improving   → application security, clean architecture, and performance
+└── open to     → .NET collaboration and practical full-stack projects
+```
 
-## 🌐 Socials
+## Selected work
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://instagram.com/ayush_rathi04">
-        <img src="https://skillicons.dev/icons?i=instagram" width="60"/><br>
-        Instagram
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/ayush-rathi-575076281/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br>
-        LinkedIn
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pinterest.com/Rathiayush575">
-        <img src="https://cdn.simpleicons.org/pinterest/E60023" width="60"/><br>
-        Pinterest
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:rathiaccess@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60"/><br>
-        Email
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| **Paarth Exam System** | Complete exam lifecycle: question imports, scheduling, timed attempts, review states, result release, and integrity reporting. | ASP.NET Core MVC · EF Core · SQL Server |
+| [**Online Exam System**](https://github.com/Hey-Rathiii/Online-Exam-System) | Secure login and registration, session-protected pages, and online exam management. | ASP.NET Web Forms · C# · SQL Server · Bootstrap |
+| [**User Management API**](https://github.com/Hey-Rathiii/UserManagementAPI) | A focused API project for user-management workflows and REST fundamentals. | C# · .NET · REST API |
+| [**Student Manager Pro**](https://github.com/Hey-Rathiii/StudentManagerPro) | Browser-based CRUD, search, filtering, validation, dashboard metrics, and local persistence. | JavaScript · HTML · CSS · LocalStorage |
+| [**Rathi Portfolio**](https://github.com/Hey-Rathiii/RathiPortfolio) | A responsive personal site built to present projects and skills clearly. | HTML · CSS · JavaScript |
 
- <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sudevmagar/sudevmagar/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
- 
-<!-- # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
--->
+## Toolkit
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,tailwind,py,mysql,azure,aws,git,github,postman,figma,vscode&amp;perline=8&amp;theme=dark"
+    alt="C Sharp, .NET, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS, Python, MySQL, Azure, AWS, Git, GitHub, Postman, Figma, and Visual Studio Code"
+  />
+</div>
 
+<p align="center">
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" />
+  <img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" />
+  <img alt="ASP.NET Core MVC" src="https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Hey-Rathiii&icon=0&color=0)](https://visitcount.itsvg.in)
+## GitHub activity
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/stats-light.svg" />
+    <img height="185" src="./profile/stats-light.svg" alt="Ayush Rathi's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/top-langs-light.svg" />
+    <img height="185" src="./profile/top-langs-light.svg" alt="Languages used across Ayush Rathi's public repositories" />
+  </picture>
+</p>
+
+<p align="center"><sub>Cards are generated inside this repository, avoiding public widget rate limits.</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./profile/github-snake.svg" />
+  <img src="./profile/github-snake.svg" alt="Animated trail across Ayush Rathi's GitHub contribution graph" />
+</picture>
+
+---
+
+<div align="center">
+  <h2>Let's build something useful</h2>
+  <p>
+    I'm open to collaborating on .NET applications, REST APIs, SQL-backed systems,<br />
+    responsive interfaces, and deployment-focused projects.
+  </p>
+  <p>
+    <a href="https://heyyyrathi-portfolio.runasp.net/"><strong>Explore my portfolio</strong></a>
+    &nbsp;·&nbsp;
+    <a href="mailto:rathiaccess@gmail.com"><strong>Start a conversation</strong></a>
+  </p>
+  <p><em>Ship useful software. Learn in public. Improve every iteration.</em></p>
+</div>
