@@ -5,66 +5,40 @@
 -->
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:8250DF&height=250&section=header&text=Ayush%20Rathi&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=.NET%20Full-Stack%20Developer%20%E2%80%A2%20Building%20Ideas%20Into%20Products&descSize=19&descAlignY=57"
-    alt="Ayush Rathi — .NET Full-Stack Developer"
-  />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Hey-Rathiii" />
+  &nbsp;&nbsp;
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/Hey-Rathiii?style=social" />
+  &nbsp;&nbsp;
+  <img alt="Ayush Rathi profile views" src="https://komarev.com/ghpvc/?username=Hey-Rathiii&style=flat&color=brightgreen&label=Profile-Views" />
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=900&height=65&lines=C%23+%7C+ASP.NET+Core+%7C+SQL+Server;Building+secure+and+useful+web+applications;Designing+clean+interfaces+with+solid+backends;Learning%2C+shipping%2C+and+improving+every+day"
-      alt="Animated introduction"
-    />
-  </a>
-
-  <br />
-
-  <a href="https://heyyyrathi-portfolio.runasp.net/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58A6FF" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-rathi-575076281/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rathiaccess@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Hey-Rathiii?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hey-Rathiii?style=for-the-badge&logo=github&label=FOLLOWERS&color=8250DF" alt="GitHub followers" />
-  </a>
-
-  <br /><br />
-
   <img
-    src="https://komarev.com/ghpvc/?username=Hey-Rathiii&style=for-the-badge&color=8250DF&label=PROFILE+VIEWS"
-    alt="Profile views"
+    src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=70&width=760&lines=Heyyy!+I'm+Ayush+Rathi;Hey-Rathiii+is+me!!!;Welcome+to+my+profile!"
+    alt="Animated welcome from Ayush Rathi"
   />
 </div>
 
----
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px" alt="Waving hand" /> About Me
 
-## 👋 About me
+<img
+  src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif"
+  width="360"
+  align="right"
+  alt="Animated coding break"
+/>
 
-I’m **Ayush Rathi**, a .NET full-stack developer from **Meerut, India**. I build complete web products where backend architecture, relational data, application security, and thoughtful UI design work together.
+- 💳 My full name is **Ayush Rathi**
+- 🎓 I completed my **B.Tech in Computer Science** at **IIMT University, Meerut** in 2026
+- 💼 I have hands-on product development experience with **Paarth Infotech**
+- 💻 My focus is **.NET full-stack web development**
+- 🌏 I’m based in **Meerut, Uttar Pradesh, India**
+- 🔭 I’m building assessment platforms and production-ready ASP.NET Core applications
+- 🧠 I’m interested in backend architecture, application security, and thoughtful UI design
+- 😎 My quote is ***“Ship useful software. Learn in public. Improve every iteration.”***
+- ☕ Fun fact: I’d rather debug a race condition than skip my morning coffee
 
-- 🎓 B.Tech in Computer Science, IIMT University, Meerut — 2026
-- 💼 Hands-on product development experience with Paarth Infotech
-- 🧭 Focused on C#, ASP.NET Core, REST APIs, Entity Framework Core, and SQL Server
-- 🎨 Comfortable turning backend workflows into responsive, accessible interfaces
-- 🔭 Currently building assessment platforms and production-ready .NET applications
-- 🌱 Deepening my knowledge of architecture, DSA, cloud deployment, and application security
-
-```csharp
-var ayush = new Developer
-{
-    Role = ".NET Full-Stack Developer",
-    Location = "Meerut, Uttar Pradesh, India",
-    Strengths = ["ASP.NET Core", "C#", "SQL Server", "JavaScript"],
-    Mindset = "Ship useful software. Learn in public. Improve every iteration."
-};
-```
+<br clear="both" />
 
 ---
 
@@ -186,7 +160,7 @@ var ayush = new Developer
 
 ---
 
-## 🧰 Technology toolbox
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px" alt="Animated code brackets" /> Some Languages and Tools
 
 <div align="center">
   <img
@@ -204,45 +178,72 @@ var ayush = new Developer
 
 ---
 
-## 📊 GitHub command center
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px" alt="Animated star" /> About Some Stats
 
-<p align="center">
+<div align="center">
   <img
-    width="100%"
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    alt="Ayush Rathi profile details and contribution history"
+    height="175"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Hey-Rathiii&show_icons=true&theme=github_dark"
+    alt="Ayush Rathi's GitHub statistics"
   />
-</p>
+  <img
+    height="175"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Hey-Rathiii&theme=github_dark"
+    alt="Ayush Rathi's GitHub contribution streak"
+  />
+</div>
 
-<p align="center">
+<div align="center">
   <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Repositories by language"
+    height="175"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hey-Rathiii&layout=compact&theme=github_dark"
+    alt="Most used languages across Ayush Rathi's repositories"
   />
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-    alt="Commits by language"
-  />
-</p>
+</div>
 
-<p align="center">
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    alt="GitHub activity statistics"
-  />
-  <img
-    width="49%"
-    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    alt="Productive coding time in India Standard Time"
-  />
-</p>
+<details>
+  <summary><strong>More GitHub activity details</strong></summary>
 
-<p align="center">
-  <sub>Summary cards refresh automatically every day and after profile updates.</sub>
-</p>
+  <br />
+
+  <p align="center">
+    <img
+      width="100%"
+      src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+      alt="Ayush Rathi profile details and contribution history"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      width="49%"
+      src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+      alt="Repositories by language"
+    />
+    <img
+      width="49%"
+      src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+      alt="Commits by language"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      width="49%"
+      src="./profile-summary-card-output/github_dark/3-stats.svg"
+      alt="GitHub activity statistics"
+    />
+    <img
+      width="49%"
+      src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+      alt="Productive coding time in India Standard Time"
+    />
+  </p>
+
+  <p align="center">
+    <sub>Summary cards refresh automatically every day and after profile updates.</sub>
+  </p>
+</details>
 
 ---
 
@@ -288,9 +289,27 @@ var ayush = new Developer
 
 ---
 
-<div align="center">
-  <h2>🤝 Let’s build something useful</h2>
+## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px" height="40px" alt="Handshake" /> For More Information, Please Check Out or Connect Me Via
 
+<p align="center">
+  <a href="mailto:rathiaccess@gmail.com">
+    <img align="center" alt="Ayush Rathi on Gmail" width="34px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ayush-rathi-575076281/">
+    <img align="center" alt="Ayush Rathi on LinkedIn" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://heyyyrathi-portfolio.runasp.net/">
+    <img align="center" alt="Ayush Rathi's portfolio" width="32px" src="https://www.readmecodegen.com/api/social-icon?name=web&size=96" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Hey-Rathiii">
+    <img align="center" alt="Ayush Rathi on GitHub" width="34px" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" />
+  </a>
+</p>
+
+<div align="center">
   <p>
     I’m open to collaborating on .NET applications, REST APIs,
     SQL-backed platforms, responsive interfaces, and deployment-focused projects.
@@ -305,7 +324,9 @@ var ayush = new Developer
 
   <br /><br />
 
-  <em>Ship useful software. Learn in public. Improve every iteration.</em>
+  😍 Thanks for visiting my profile! Have a nice day! 😊
+  <br />
+  © 2026 Ayush Rathi · Hey-Rathiii
 </div>
 
 <p align="center">
