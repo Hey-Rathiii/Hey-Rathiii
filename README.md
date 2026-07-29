@@ -293,19 +293,19 @@
 
 <p align="center">
   <a href="mailto:rathiaccess@gmail.com">
-    <img align="center" alt="Ayush Rathi on Gmail" width="34px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Ayush Rathi on Gmail" width="34px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayush-rathi-575076281/">
-    <img align="center" alt="Ayush Rathi on LinkedIn" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Ayush Rathi on LinkedIn" width="32px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" />
   </a>
   &nbsp;&nbsp;
   <a href="https://heyyyrathi-portfolio.runasp.net/">
-    <img align="center" alt="Ayush Rathi's portfolio" width="32px" src="https://www.readmecodegen.com/api/social-icon?name=web&size=96" />
+    <img align="center" alt="Ayush Rathi's portfolio" width="32px" src="https://cdn.simpleicons.org/googlechrome/4285F4" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Hey-Rathiii">
-    <img align="center" alt="Ayush Rathi on GitHub" width="34px" src="https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff" />
+    <img align="center" alt="Ayush Rathi on GitHub" width="34px" src="https://cdn.simpleicons.org/github/FFFFFF" />
   </a>
 </p>
 
