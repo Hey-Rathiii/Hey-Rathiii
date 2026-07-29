@@ -1,0 +1,47 @@
+name: Refresh profile summary cards
+
+on:
+  schedule:
+    # 02:37 UTC / 08:07 IST — offset from the other profile workflow.
+    - cron: "37 2 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      # The action commits these files. Ignoring them prevents a workflow loop.
+      - "profile-summary-card-output/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate animated GitHub profile cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate and publish summary cards
+        # Pinned to the current upstream release commit for supply-chain safety.
+        uses: vn7n24fzkq/github-profile-summary-cards@eda120aff352e7438ecf2b3a67e7eda2deb9fe2a
+        env:
+          # Sufficient for public profile statistics and pushing to this repo.
+          # Use a fine-grained PAT secret only if private activity must be counted.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          THEME: github_dark
+          ANIMATION: load
+          DURATION: 3
+          NAME: Ayush Rathi
+          AUTO_PUSH: true
