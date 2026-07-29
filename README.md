@@ -316,8 +316,11 @@
   </p>
 
   <a href="https://heyyyrathi-portfolio.runasp.net/">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-58A6FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Explore my portfolio" />
-  </a>
+  <img
+    src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Explore my portfolio"
+  />
+</a>
   <a href="mailto:rathiaccess@gmail.com">
     <img src="https://img.shields.io/badge/START_A_CONVERSATION-8250DF?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" />
   </a>
